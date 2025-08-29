@@ -13,11 +13,11 @@ Após olhar toda a base, optei por: identificar **quais perfis de clientes respo
 
 ---
 
-## 📂 Estrutura do Projeto
--Apresentação
--Base de Dados (base fornecidada pelo curso)
--Notebook (python)
--Imagens (Dash Power BI)
+##  Estrutura do Projeto
+- Apresentação
+- Base de Dados (base fornecidada pelo curso)
+- Notebook (python)
+- Imagens (Dash Power BI)
 
 
 ---
